@@ -1,0 +1,1 @@
+# small-scale-private-cloud-deployment
