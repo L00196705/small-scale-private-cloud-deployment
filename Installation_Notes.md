@@ -19,7 +19,7 @@ Docker installation was completed successfully on all three distributions withou
 The nginx container deployed successfully and the default "Welcome to nginx" page was accessible through the browser.
 
 
-##Docker Installation
+## Docker Installation
 
 ### Install Required Packages
 
